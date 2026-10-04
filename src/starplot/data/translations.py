@@ -421,6 +421,7 @@ LABELS = {
 
 
 LANGUAGES = [
+    "de",
     "en-us",
     "es",
     "fa",
